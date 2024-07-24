@@ -1,0 +1,12 @@
+n=5
+n+=1
+print(type(n))
+print((2+1)*3)
+print(n)
+print(abs(-2))
+print(round(2.57))
+print(round(2.57,1))
+n1=4
+n2=2
+print(n1==n2)
+print(n1>n2)

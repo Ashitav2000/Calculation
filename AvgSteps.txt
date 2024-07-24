@@ -1,0 +1,17 @@
+Name: Keerthi
+Monthly Average Steps:
+Month      Average   
+--------------------
+January    5246      
+February   4851      
+March      5777      
+April      5802      
+May        4711      
+June       4792      
+July       5638      
+August     5759      
+September  6114      
+October    5411      
+November   4268      
+December   5138      
+Name: Keerthi
